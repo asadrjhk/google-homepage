@@ -1,1 +1,1 @@
-This project is about to create the google hompage, using deconstruct technique.
+This is the mini project, in which we’ll deconstruct an existing web page and rebuild it.
